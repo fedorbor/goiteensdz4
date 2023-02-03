@@ -17,4 +17,17 @@ for(let x = 1;x <=10;x += 1 ){
         console.log(x)
     }
 }
+// 3
+console.log('3');
+let num = 20;
+while (num <= 28){
+    console.log(num);
+    num +=1;
+}
+// 4
+console.log('4');
+let Name= prompt("imya personaga");
 
+if (Name.length <6){
+    console.log(Name);
+}
